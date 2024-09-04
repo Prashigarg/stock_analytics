@@ -32,7 +32,7 @@ Welcome to the Stock Prediction Analysis project! This project aims to study and
  
  # Frontend
  
- HTML(Hypertext Markup Language) is used for structuring the
+ ●HTML(Hypertext Markup Language) is used for structuring the
  content and layout of web pages, providing the foundation for the user
  interface.
  
@@ -149,4 +149,4 @@ Welcome to the Stock Prediction Analysis project! This project aims to study and
  
 With these steps, you can run the stock prediction analysis for NSE and BSE data
  locally on your machine for insightful stock market predictions. If you encounter
- any difficulties during the setup process, don't hesitate to reach out for assistanc
+ any difficulties during the setup process, don't hesitate to reach out for assistance.
